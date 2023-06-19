@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I love learning **New Technologies**<br>🌱 I’m currently learning **Core Java**<br>💬 Ask me about **react**<br>📫 How to reach me https://www.linkedin.com/in/ashutosh-dikondwar/
+🔭 I love learning **New Technologies**<br>🌱 I’m currently learning **Advanced Java**<br>💬 Ask me about **react**<br>📫 How to reach me https://www.linkedin.com/in/ashutosh-dikondwar/
 
 
 ## 🌐 Socials:
